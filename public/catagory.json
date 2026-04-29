@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Nature",
+    "slug": "nature"
+  },
+  {
+    "id": 2,
+    "name": "City",
+    "slug": "city"
+  },
+  {
+    "id": 3,
+    "name": "AI Art",
+    "slug": "ai-art"
+  },
+  {
+    "id": 4,
+    "name": "Technology",
+    "slug": "technology"
+  },
+  {
+    "id": 5,
+    "name": "Abstract",
+    "slug": "abstract"
+  },
+  {
+    "id": 6,
+    "name": "Travel",
+    "slug": "travel"
+  },
+  {
+    "id": 7,
+    "name": "Animals",
+    "slug": "animals"
+  },
+  {
+    "id": 8,
+    "name": "Space",
+    "slug": "space"
+  },
+  {
+    "id": 9,
+    "name": "Fantasy",
+    "slug": "fantasy"
+  },
+  {
+    "id": 10,
+    "name": "Architecture",
+    "slug": "architecture"
+  }
+]
