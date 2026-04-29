@@ -13,10 +13,10 @@ const Banner = () => {
             />
 
             {/* Gradient Overlay */}
-            <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/50 to-black/70" />
+            <div className="absolute inset-0 bg-linear-to-r from-black/80 via-black/50 to-black/70" />
 
             {/* Glow Effect */}
-            <div className="absolute left-1/2 top-1/2 h-[500px] w-[500px] -translate-x-1/2 -translate-y-1/2 rounded-full bg-cyan-500/20 blur-3xl" />
+            <div className="absolute left-1/2 top-1/2 h-125 w-125-translate-x-1/2 -translate-y-1/2 rounded-full bg-cyan-500/20 blur-3xl" />
 
             {/* Content */}
             <section className="relative z-10 flex min-h-screen items-center px-6 md:px-20">
@@ -27,7 +27,7 @@ const Banner = () => {
 
                     <h1 className="mb-6 text-5xl font-extrabold leading-tight md:text-7xl">
                         Build Your
-                        <span className="block bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
+                        <span className="block bg-linear-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
                             Dream Website
                         </span>
                     </h1>

@@ -22,12 +22,14 @@ export default function RootLayout({ children }) {
       className={`${geistSans.variable}h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
-        <Navber>
+        <div>
+          <Navber>
         </Navber>
         <main>
           {children}
         </main>
         <Footer></Footer>
+        </div>
         </body>
     </html>
   );

@@ -13,7 +13,6 @@ const Navber = () => {
                     <div className="text-2xl font-bold tracking-wide">
                         MyLogo
                     </div>
-
                     {/* Middle: Navigation */}
                     <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-gray-300">
                         <a href="#home" className="hover:text-white transition">Home</a>
